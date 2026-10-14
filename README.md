@@ -25,5 +25,5 @@ The pipeline consists of several key stages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sms-spam-classifier.git
-   cd sms-spam-classifier
+   git clone https://github.com/your-username/SMS-spam-detector.git
+   cd SMS-spam-detector
